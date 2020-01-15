@@ -1,0 +1,6 @@
+{
+    "sketch": "08_RGB_Light/08_RGB_Light.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "output": "$Output"
+}
